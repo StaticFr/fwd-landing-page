@@ -1,0 +1,31 @@
+body {
+    background-color:#2C2F33;
+    padding: 1rem;
+}
+
+.navigation {
+    text-align:right;
+}
+
+.section-about {
+    text-align:center;
+    color:#AFCBFF
+}
+
+.about-me {
+    text-align: center;
+}
+
+.my-projects {
+    text-align:center;
+    padding: 2rem;
+}
+
+.contact-me {
+    text-align: center;
+}
+
+
+footer {
+    text-align:center;
+}
