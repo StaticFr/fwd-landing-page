@@ -9,7 +9,8 @@ body {
 
 .section-about {
     text-align:center;
-    color:#AFCBFF
+    color:#AFCBFF;
+    line-height: 1.6;
 }
 
 .about-me {
@@ -19,13 +20,17 @@ body {
 .my-projects {
     text-align:center;
     padding: 2rem;
+    color: #AFCBFF
 }
 
 .contact-me {
     text-align: center;
+    color: #AFCBFF
 }
 
 
 footer {
     text-align:center;
+    color: #AFCBFF;
+    
 }
