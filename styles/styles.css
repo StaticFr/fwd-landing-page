@@ -130,3 +130,22 @@ footer {
     font-size: 1rem;
     background-color:#1D1E22;
 }
+
+
+@media (max-width: 768px) {
+    .all-projects {
+        gap: 1rem;
+    }
+
+    .section-about h1 {
+        font-size: 2rem;
+    }
+
+    .section-about p {
+        font-size: 1rem;
+    }
+
+    .header-link {
+        font-size: 1rem;
+    }
+}
