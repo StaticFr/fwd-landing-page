@@ -105,9 +105,13 @@ img {
     text-align: center;
 }
 
+#contact-me h2{
+    color: #AFCBFF;
+}
+
 #contact-me {
     text-align: center;
-    color: #5b9bd5;
+    color: #D3D3D3;
     padding: 2rem 0;
 }
 
